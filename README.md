@@ -1,2 +1,2 @@
 # reverse-web-proxy
-This is a reverse web proxy implemented in Golang
+This is a reverse web proxy server implemented in Golang
